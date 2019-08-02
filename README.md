@@ -1,2 +1,2 @@
 # dansdemo
-for use in Agile 2019 demo
+for use in the amazing Agile 2019 demo
